@@ -4,8 +4,11 @@ An interactive web version of the classic “Rock, Paper, Scissors, Lizard, Spoc
 
 🎮 Features
 Play against the computer with real-time score tracking.
+
 Smooth animations and visual highlights for each move.
+
 🎊 Confetti effect every time you win!
+
 Fully responsive and works on all devices.
 
 ⚔️ Game Rules
