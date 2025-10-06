@@ -31,12 +31,16 @@ Each choice defeats two others:
 🖖 Spock smashes Scissors and vaporizes Rock.
 
 
+
 🧠 Tech Stack
 
 HTML
+
 CSS
+
 JavaScript
 
 
 🚀 Live Demo
+
 👉 https://jpglez.github.io/Spock-Rock-Game/
